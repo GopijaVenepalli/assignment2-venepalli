@@ -16,4 +16,3 @@
     *McChicken
     *Fries
     *Chicken Nuggets
-
