@@ -18,3 +18,18 @@
     * Chicken Nuggets
 
 **[Gopija's](AboutMe.md)**
+
+---
+
+## Sport Activity List
+
+Please find below details of sport activities
+
+| Name | Location | Amount
+| :--- | :---: | ---: |
+| Volleyball | Texas | 200 |
+| Cricket | Chicago | 180 |
+| Badminton | Newyork | 160 |
+| Basketball | Washington DC | 170
+| Football | King of Prussia | 190
+| Hockey | New Jersey | 210
