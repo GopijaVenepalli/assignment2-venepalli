@@ -33,3 +33,13 @@ Please find below details of sport activities
 | Basketball | Washington DC | 170
 | Football | King of Prussia | 190
 | Hockey | New Jersey | 210
+
+---
+
+## Pithy Quotes
+
+>The way to get started is to quit talking and begin doing.<br>-*Walt Disney*
+
+>Believe you can and you're halfway there.<br>-*Oprah Winfrey*
+
+>Nothing is impossible, the word itself says, ‘I'm possible!'.<br>-*Audrey Hepburn*
