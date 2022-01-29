@@ -25,7 +25,7 @@
 
 ## Sport Activity List
 
-Please find below details of sport activities
+Below details are of sport activities which are going to be held at different places.You can register to particate and amount for personal equipments is also mentioned if needed.
 
 | Name | Location | Amount
 | :--- | :---: | ---: |
